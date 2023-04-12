@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Sat, 08 Apr 2023 23:14:09 +0800
+Source: hello
+Binary: hello
+Architecture: source amd64
+Version: 2.10-0ubuntu1
+Distribution: focal
+Urgency: medium
+Maintainer: Yuan Tao <taoyuan_eddy@hotmail.com>
+Changed-By: Yuan Tao <taoyuan_eddy@hotmail.com>
+Description:
+ hello      - this is an takehome test of eddy(Yuan Tao)
+Closes: 2015661
+Changes:
+ hello (2.10-0ubuntu1) focal; urgency=medium
+ .
+   * Take home test  (Closes: #2015661)
+Checksums-Sha1:
+ fcf08dc0b7993c1325364fc01f5477556638d690 832 hello_2.10-0ubuntu1.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ e582aa42ef70303939797cff6e88e6cd18e1603f 2128 hello_2.10-0ubuntu1.debian.tar.xz
+ 7d0267f9a8262ac2d6ec61436e819f4def5c9665 32500 hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ e693bbff0ff7ec454ed89ca428c88f4455633831 6355 hello_2.10-0ubuntu1_amd64.buildinfo
+ 1fbb5c4721bd118f9c99267ceacb36826d24e8ac 45268 hello_2.10-0ubuntu1_amd64.deb
+Checksums-Sha256:
+ cdc13df1b5685ac3d7853d21d5ac97a563f3b5ae70952214d1d69d0a69f74f3d 832 hello_2.10-0ubuntu1.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ da4b1fa52a90843a40e25ac07b0eada40c6571988bd310b06ea91dd9d4b60937 2128 hello_2.10-0ubuntu1.debian.tar.xz
+ 665ef83fc6de4c0d2f04b5537aaea1c6e49e89a169bbe5c0e0e6733ee4b1b9f2 32500 hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ 4336c89e5b289b9f5d0375860968b6a8c7981e723f781f99641c0485eef08108 6355 hello_2.10-0ubuntu1_amd64.buildinfo
+ c044075f68297877e626c58ed0c1c78752c96cfac7601a1647db2ef6240fae21 45268 hello_2.10-0ubuntu1_amd64.deb
+Files:
+ 48a3f35e1295898d5e9054e2fa59976f 832 devel optional hello_2.10-0ubuntu1.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ 34432787132b8f10200ef58df8de64ce 2128 devel optional hello_2.10-0ubuntu1.debian.tar.xz
+ 684e3dc318f3e3f5f6cf12f747226022 32500 debug optional hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ c869b8a3078a98ff4f62bcc4b2bef8ce 6355 devel optional hello_2.10-0ubuntu1_amd64.buildinfo
+ 859c815a16cdaff452509e1fe6483707 45268 devel optional hello_2.10-0ubuntu1_amd64.deb

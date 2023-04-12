@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 08 Apr 2023 23:14:09 +0800
+Source: hello
+Architecture: source
+Version: 2.10-0ubuntu1
+Distribution: focal
+Urgency: medium
+Maintainer: Yuan Tao <taoyuan_eddy@hotmail.com>
+Changed-By: Yuan Tao <taoyuan_eddy@hotmail.com>
+Closes: 2015661
+Changes:
+ hello (2.10-0ubuntu1) focal; urgency=medium
+ .
+   * Take home test  (Closes: #2015661)
+Checksums-Sha1:
+ 3974129297698d22d070614da806b6d5ea09ca11 1577 hello_2.10-0ubuntu1.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ 3f905f7799434c6855d317345b2d6516759f9184 2084 hello_2.10-0ubuntu1.debian.tar.xz
+ bae45ebd4cb222c78b2252615b4d2905a0e2b337 6573 hello_2.10-0ubuntu1_source.buildinfo
+Checksums-Sha256:
+ 4b8c138212c1229fddc1d62463b24557ad8af78d6701f4c255cc7dce7e35cbff 1577 hello_2.10-0ubuntu1.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ ae35d3517f70151ac0e1050bf207c5fec4fbee3cbc6499432215cb57937ac714 2084 hello_2.10-0ubuntu1.debian.tar.xz
+ f259d1b2d898e2fedf1ac66cdc605062d06a75811cfce8fd979bd2b89d14ebc9 6573 hello_2.10-0ubuntu1_source.buildinfo
+Files:
+ 794dd2908099c116e60d30c0ab87d256 1577 devel optional hello_2.10-0ubuntu1.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ 38a0fa38a3293efaefa6359e32d540cc 2084 devel optional hello_2.10-0ubuntu1.debian.tar.xz
+ 547bc2e5d5225a56961a4603127346c8 6573 devel optional hello_2.10-0ubuntu1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHNBAEBCgA3FiEEhz8OJpg2Guor/gdJmmk8mgzWpu0FAmQ0GgcZHHRhb3l1YW5f
+ZWRkeUBob3RtYWlsLmNvbQAKCRCaaTyaDNam7UjSC/wNSkclV9icmvJa/JLbRk5v
+Dmfgry5PsnorWM4EaD93JJLj0m2A4EEfjeocndjWGUHlTrZXHlZtZYjQHWIcNdVX
+4Ta6zw/C4xEUDQnXk61XB2WhN0AylXEEeESO1cF/5cBtbckJE3+j+C4xyVtiFiid
+tjL9f8CVQs5BKuYGTJYRZAxYpWPz/N+THH+I2fbQujGbzEOnu/rKG0RzmRCOzrl7
+PDQPqQjkpT/uslD0uSLMAx/jc1bOYC0GB3BJl1gSeLiOMox0W6H6TSmz3oXxUUMf
+UvfnTOejv7KVlMWLZ/RgACrv7w0ge7K7tkrGL7fzK0hpZ0xhiwt8UdjT2KY7HmBK
+tt1aUv8GPsBU8U3Rs3WGIPLW8lq7KHR9py3OWn7xvYwyid5UE9UGksAWKeNwq+51
+/XBq9VTZsIfCx0/E5YGVKMkzaWip7YcEqwXDp7TUNXxoW0j4exzmoFi6L2rZ/sbC
+J7KAR68oSmNkC72Hssoo0RT/y8qZ9o8onFWGztaR9Ck=
+=iB2/
+-----END PGP SIGNATURE-----

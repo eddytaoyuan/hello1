@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sat, 08 Apr 2023 23:14:09 +0800
+Source: hello
+Binary: hello
+Architecture: amd64
+Version: 2.10-0ubuntu1
+Distribution: focal
+Urgency: medium
+Maintainer: Yuan Tao <taoyuan_eddy@hotmail.com>
+Changed-By: Yuan Tao <taoyuan_eddy@hotmail.com>
+Description:
+ hello      - this is an takehome test of eddy(Yuan Tao)
+Closes: 2015661
+Changes:
+ hello (2.10-0ubuntu1) focal; urgency=medium
+ .
+   * Take home test  (Closes: #2015661)
+Checksums-Sha1:
+ 7d0267f9a8262ac2d6ec61436e819f4def5c9665 32500 hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ d0c8618ced345ac58d5fab676844414579d08f1b 6122 hello_2.10-0ubuntu1_amd64.buildinfo
+ 85eebe9b95ebfb269f6f24ffdb95042a932676cb 45240 hello_2.10-0ubuntu1_amd64.deb
+Checksums-Sha256:
+ 665ef83fc6de4c0d2f04b5537aaea1c6e49e89a169bbe5c0e0e6733ee4b1b9f2 32500 hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ 652e007f5ae817829eb8d122c04d3f6178dda958b7c02c2e897e1c67cd031571 6122 hello_2.10-0ubuntu1_amd64.buildinfo
+ bfedf0954cbd66bf218b8d1cdd3b7369b481f7a43220d2615a6aca678378b111 45240 hello_2.10-0ubuntu1_amd64.deb
+Files:
+ 684e3dc318f3e3f5f6cf12f747226022 32500 debug optional hello-dbgsym_2.10-0ubuntu1_amd64.ddeb
+ 046bc0508f73e336a8dfc7cafb999310 6122 devel optional hello_2.10-0ubuntu1_amd64.buildinfo
+ e7f257bccf12624fb7ddb5f95ce3928f 45240 devel optional hello_2.10-0ubuntu1_amd64.deb

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 08 Apr 2023 23:14:09 +0800
+Source: hello
+Architecture: source
+Version: 2.10-0ubuntu1
+Distribution: focal
+Urgency: medium
+Maintainer: Yuan Tao <taoyuan_eddy@hotmail.com>
+Changed-By: Yuan Tao <taoyuan_eddy@hotmail.com>
+Closes: 2015661
+Changes:
+ hello (2.10-0ubuntu1) focal; urgency=medium
+ .
+   * Take home test  (Closes: #2015661)
+Checksums-Sha1:
+ 063fdd1c9f13519401e2b2c700484ebca37f50a5 1577 hello_2.10-0ubuntu1.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ e582aa42ef70303939797cff6e88e6cd18e1603f 2128 hello_2.10-0ubuntu1.debian.tar.xz
+ 33d8d44a30c559ab0eabc96e9afe84fa49824d8b 6573 hello_2.10-0ubuntu1_source.buildinfo
+Checksums-Sha256:
+ 66275d4ed6334cb1427f1af5ee67308ba2bb57adcd68de02b0cc3656e304ac5c 1577 hello_2.10-0ubuntu1.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ da4b1fa52a90843a40e25ac07b0eada40c6571988bd310b06ea91dd9d4b60937 2128 hello_2.10-0ubuntu1.debian.tar.xz
+ 7f6914acbd9fca9bd700646c1c91b29a38c9c1b49162f44a97b06e91c0a49c2f 6573 hello_2.10-0ubuntu1_source.buildinfo
+Files:
+ acd6660f8e0d97035bbb243077f1f324 1577 devel optional hello_2.10-0ubuntu1.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ 34432787132b8f10200ef58df8de64ce 2128 devel optional hello_2.10-0ubuntu1.debian.tar.xz
+ 3f036df35764180f7230e5de9b35fde2 6573 devel optional hello_2.10-0ubuntu1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHNBAEBCgA3FiEEp5YfBTaHAREq5RKmR4lB5UVLOGQFAmQ22iYZHHRhb3l1YW5f
+ZWRkeUBob3RtYWlsLmNvbQAKCRBHiUHlRUs4ZHEKDADVWCN4G0JPwMyyk4qnvmWN
+b9C0Ag1rJXRWOUQayuc7Gm8M0hvdtfTk403gi6r2DSR3CF8ec4ZSV7LC2t58d1tP
+nMuq/xuGncuT7ERkjkUzexs/8i6B/xAvO20cdAJTLm2Th2HGMQnrG8qk57tQW/vK
+MgNALRRDe5GZrqhuPKIAE1iidqX+WAtxhbkDv0QYZfQFwZ53P51gZz6BIxzWB7Ae
+99pQDckG06FNPWOw7VQLPKA+i21VQTpOq3BKhrLDsBNnbYJARfWkE/lp7xQZx/js
+1RmKW0ibiELa3wE5ocGHypQcZeUM57e+7j0VwbcjlGY+WZlO1ZB/cq5aVcYGLoLJ
+DFLV0Kp+I7r3sEn3DliGrLRuNqM90oBqd/kT8Xf5QPCN9P3vwaxddt11SZU4yZKQ
+bVxZDtVS1KnphnqJCjCwZJXG5zqj8zyR83XbLCHf7S/psntW+8ySFKcElm6vA7A9
+zyDzKXpDv3t5pKicfnMv6b2tmRcxVU1GxDDLg3x2iiM=
+=6Lbg
+-----END PGP SIGNATURE-----
